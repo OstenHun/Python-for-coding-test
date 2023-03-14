@@ -12,7 +12,7 @@
   
 #### 4장 구현
 * 이론
-  * 예제 4-1
+  * [예제 4-1](https://github.com/OstenHun/Python-for-coding-test/blob/3ccf06a3418c0f0bc502d07580e6a5863a49193e/%EA%B5%AC%ED%98%84/%EC%98%88%EC%A0%9C%204-1.py)
   * 예제 4-2
 
 * 실전
